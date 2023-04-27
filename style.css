@@ -4,3 +4,15 @@
     justify-content: space-around;
     padding: 24px 0;
      }
+     .cabeçalho-imagem{
+        width:20%;
+     }
+     .cabeçalho-lista-item{
+        padding:30px 0;
+        font-size: 24px;
+     }
+     .cabeçalho-titulo{
+        padding: 60px 0;
+        color: #db1f1f;
+        font-size: 50px;
+     }
